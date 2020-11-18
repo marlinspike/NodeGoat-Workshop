@@ -11,7 +11,8 @@
 		"dbaeumer.vscode-eslint",
 		"mongodb.mongodb-vscode",
 		"octref.vetur",
-		"cschleiden.vscode-github-actions"
+		"cschleiden.vscode-github-actions",
+		"ms-azuretools.vscode-docker"
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [
