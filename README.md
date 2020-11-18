@@ -40,7 +40,7 @@ The repo includes a `.devcontainer/` directory with Codespaces configuration art
 
 4. Either select an existing Codespace or click "New codespace" to launch the repository within a Codespace
 
-5. Open the Visual Studio Code Integrated Terminal
+5. Open the Visual Studio Code Integrated Terminal (if the integrated terminal is already open when first launching the Codespace, you will need to close and re-open it due to a known bug where the shell isn't being set to `/bin/bash`).
 
 6. Install node packages (only if `node_modules/` is missing):
 
