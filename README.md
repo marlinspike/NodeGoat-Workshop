@@ -40,9 +40,9 @@ The repo includes a `.devcontainer/` directory with Codespaces configuration art
 
 4. Either select an existing Codespace or click "New codespace" to launch the repository within a Codespace
 
-5. Open the Visual Studoe Code Integrated Terminal
+5. Open the Visual Studio Code Integrated Terminal
 
-6. Install node packages:
+6. Install node packages (only if `node_modules/` is missing):
 
    ```sh
    npm install
